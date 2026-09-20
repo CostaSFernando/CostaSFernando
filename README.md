@@ -27,4 +27,4 @@ Meu percurso em desenvolvimento inclui aplicações web, APIs e scripts para amb
 
 ---
 
-[Meu perfil no GitHub](https://github.com/CostaSFernando)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/costa-fernando/)
