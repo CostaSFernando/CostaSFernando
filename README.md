@@ -28,3 +28,4 @@ Meu percurso em desenvolvimento inclui aplicações web, APIs e scripts para amb
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/costa-fernando/)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:costasfernando199@gmail.com)
